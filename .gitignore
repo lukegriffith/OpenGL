@@ -1,0 +1,6 @@
+Debug/*
+Dependencies/*
+OpenGL/Debug/*
+PopulationSim/Debug/*
+.vs/*
+*vcxproj*
